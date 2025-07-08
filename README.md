@@ -1,9 +1,8 @@
 ## Hello, there! 👋
 
 I am Xinsheng, currently diving deep into:
-- `Python` development
-- `Shell` scripting
-- `CLI` workflows && automation
+- `Python` development and `Shell` scripting
+- `CLI` workflows and automation
 
 ## Working on:
 - Building full stack website using [RoR](https://rubyonrails.org/) <img src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png" alt="Rails" height="20" align="absmiddle">
