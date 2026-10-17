@@ -3,11 +3,10 @@
 I am Xinsheng, currently diving deep into:
 - Software automation with `Python` and `Shell`
 - LLM infra scaling and deployment
-- Agentic memory research
+- AI Agentic research
 
 ## Working on:
-- Full-stack sites and PWAs for [Meichu Hackathon](https://github.com/Official-Meichu-Hackathon)
-- LLM inference on HPC clusters
+- LLM inferencing on HPC clusters
 - Self-hosted servers and services
 - AGILE & AI-DLC practices for the teams I work with
 
