@@ -3,7 +3,7 @@
 I am Xinsheng, currently diving deep into:
 - Software automation with `Python` and `Shell`
 - LLM infra scaling and deployment
-- AI Agentic research
+- Agentic AI research
 
 ## Working on:
 - LLM inferencing on HPC clusters
